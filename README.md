@@ -4,11 +4,11 @@
 * This is file conversion python which is convert your scatter dataset into folder base structure data format
 * **Input Format(Source Format)**
 
-![](images\1560949278469.png)
+![1560949278469](https://github.com/sw-ot-ashishpatel/Audio-Classification-Data-Preparation/blob/master/images/1560949278469.png)
 
 * **Output Format(Destination Format)**
 
-![1560949382672](images\1560949382672.png)
+![1560949382672](https://github.com/sw-ot-ashishpatel/Audio-Classification-Data-Preparation/blob/master/images/1560949382672.png)
 
 
 
