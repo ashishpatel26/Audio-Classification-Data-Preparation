@@ -4,13 +4,11 @@
 * This is file conversion python which is convert your scatter dataset into folder base structure data format
 * **Input Format(Source Format)**
 
-![1560949278469](C:\Users\ashish.patel\AppData\Roaming\Typora\typora-user-images\1560949278469.png)
-
-
+![](C:\Users\ashish.patel\Anaconda Project\Audio Classification\images\1560949278469.png)
 
 * **Output Format(Destination Format)**
 
-![1560949382672](C:\Users\ashish.patel\AppData\Roaming\Typora\typora-user-images\1560949382672.png)
+![1560949382672](C:\Users\ashish.patel\Anaconda Project\Audio Classification\images\1560949382672.png)
 
 
 
